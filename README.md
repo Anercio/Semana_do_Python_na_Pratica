@@ -11,3 +11,14 @@ Conceitos basicos de como fazer uma automação em PDF, foram abordados os segui
 - Conversão de tipos
 - Cálculos
 - Projeto (PDF)
+
+**Projeto02**
+
+Automatizando tarefas, o que vamos aprender?
+- Instalar e utilizar bibliotecas
+- Buscar dados de ações automaticamente
+- Gerar estatísticas sobre esses dados
+- Automatizar o controle do mouse e do teclado com o pyautogui
+- Utilizar strings de múltiplas linhas
+- Enviar e-mail de forma automática
+
